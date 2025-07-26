@@ -1,0 +1,27 @@
+{
+  "name": "yolopayexpo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "@react-navigation/bottom-tabs": "^7.4.2",
+    "expo": "~53.0.20",
+    "expo-blur": "^14.1.5",
+    "expo-status-bar": "~2.2.3",
+    "react": "19.0.0",
+    "react-native": "0.79.5",
+    "react-native-reanimated": "~3.17.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "^19.1.8",
+    "@types/react-native": "^0.72.8"
+  },
+  "private": true
+}
